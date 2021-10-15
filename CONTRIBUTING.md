@@ -47,6 +47,10 @@ For example if your code is an answer to 'question 1', then you answer file shou
 * You can answer a question that has already been answered if you provide a diferent solution. In other words, there can be multiple answers to a question.
 * Last but not least, make sure your code actually works to solve the problem!
 
+#### Contribute to a project
+For folks who want to get more engaged with code, you can contribute code to a side-project. It may be a script, an extension, or any fun project that you want to work on.
+Navigate to the projects folder under contributions to see what type of projects you can contribute to.
+
 ## How to make a pull request
 
 A [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) is basically a way to let others know that you have made a change to this repository.
@@ -65,15 +69,13 @@ This should be your username on your own copy.
 ![no image](.img/edit.jpg)
 
 * Make the changes you want to make.
-* Save the changs you have made to you copy of the repository.
-* Go back to the main repository. You shuld see a green button at the top that says compare and pull reqest.
+* Save the changs you have made to yourcopy of the repository.
+* Go back to the main repository. You should see a green button at the top that says 'compare and pull reqest'.
 * Click that to send your pull request.
 
 🎉🎉CONGRATULATIONS, YOU HAVE SUCCESFULLY MADE A PULL REQUEST🎉🎉
 
 Follow these steps to make your pull request.
-
-Remember, you need to make four PRs to complete the challenge.
 
 
 ### How to make changes using Git and GitHub.
