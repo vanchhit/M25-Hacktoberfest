@@ -1,0 +1,1 @@
+1. Here is a very useful resource for anyone planning to look into PGP and SHA1 as cryptography tools and why they are dead (kinda), this is a wonderful resource: https://arstechnica.com/information-technology/2020/01/pgp-keys-software-security-and-much-more-threatened-by-new-sha1-exploit/
