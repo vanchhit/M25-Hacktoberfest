@@ -1,6 +1,7 @@
 # This code answers any prompt from question 2.
 
 def result(c):
+  #Here is a dictionary map to what the key of the prompt is:
   key = {
     'C' : 0,
     'E' : 1,
@@ -17,7 +18,7 @@ def result(c):
     '*' : 10,
     '#' : 1,
   }
-  
+  # Returns the value of the answer from the key
   return key.get(c)
 
 
